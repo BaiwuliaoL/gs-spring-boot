@@ -1,3 +1,17 @@
+/**
+ * git 命令：
+ *
+ * 1. 推到 临时区
+ * git add .
+ *
+ * 2. 提交并备注
+ * git commit -m "这次改了什么"
+ *
+ * 3. 推送至分支
+ * git push
+ */
+
+
 package com.example.springboot;
 
 import java.util.Arrays;
